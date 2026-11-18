@@ -597,6 +597,8 @@ caption {
 .shop-category h2 {
     font-size:28px;
 }
+	
+}
 
 .shop-layout {
     display: flex;
@@ -659,6 +661,13 @@ caption {
     }
 	
 }
+
+@media screen and (max-width: 760px) {
+    .shop-sidebar {
+        flex-basis: auto;
+    }
+}
+
 @media print {
 	header, nav, footer { display:none; }
 	main { width:100%; }
