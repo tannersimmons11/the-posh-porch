@@ -624,6 +624,19 @@ caption {
     background-color:#F0C1AD;
     color:#493F38;
 }
+
+.shop-feature {
+    flex:1;
+    padding:40px;
+    background-color:#F0C1AD;
+    border-radius:8px;
+    text-align:center;
+}
+
+.shop-feature h2 {
+    color:#493F38;
+    margin-bottom:15px;
+}
 	
 }
 @media print {
