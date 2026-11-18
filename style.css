@@ -166,7 +166,7 @@ main {
 
 .hero {
 	background-color:#F0C1AD;
-	background-image:url("img/hero.png");
+	background-image:none;
 	background-size:cover;
 	background-position:center;
 	padding:100px 40px;
