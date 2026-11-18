@@ -179,7 +179,7 @@ main {
 	max-width:650px;
 	margin:0 auto;
 	padding:35px;
-	border:1px solid #AD9469;
+	border:1px solid #B79B70;
 }
 
 .hero h2 {
@@ -211,7 +211,7 @@ main {
 }
 
 .hero-button:hover {
-    background-color:#AD9469;
+   background-color:#493F38;
     color:#263F35;
     text-decoration:none;
 }
