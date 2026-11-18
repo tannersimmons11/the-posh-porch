@@ -611,6 +611,19 @@ caption {
     border:1px solid #B79B70;
     border-radius:8px;
 }
+
+.shop-sidebar a {
+    display:block;
+    padding:12px 10px;
+    color:#493F38;
+    text-decoration:none;
+    border-bottom:1px solid #B79B70;
+}
+
+.shop-sidebar a:hover {
+    background-color:#F0C1AD;
+    color:#493F38;
+}
 	
 }
 @media print {
