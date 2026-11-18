@@ -626,6 +626,10 @@ caption {
     border-bottom:1px solid #B79B70;
 }
 
+.shop-sidebar a:last-child {
+    border-bottom: none;
+}
+
 .shop-sidebar a:hover {
     background-color:#F0C1AD;
     color:#493F38;
