@@ -181,6 +181,7 @@ main {
 	padding:35px;
 	border:1px solid #B79B70;
 	border-radius: 18px;
+	position: relative;
 }
 
 .hero h2 {
