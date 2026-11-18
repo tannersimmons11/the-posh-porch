@@ -221,7 +221,7 @@ main li {
 }
 
 footer {
-	background-color:#244236;
+	background-color:#493F38;
 	color: #F7F3EA;
 	width: 100%;
 	padding:8px;
@@ -236,7 +236,7 @@ footer h3 {
 
 footer hr {
     border:0;
-    border-top:1px solid #AD9469;
+    border-top:1px solid #B79B70;
     width:60%;
     margin:20px auto;
 }
@@ -356,7 +356,7 @@ caption {
 
 .story-button {
     display:inline-block;
-    background-color:#263F35;
+   background-color:#7C876D;
     color:#F7F3EA;
     padding:12px 30px;
     margin-top:25px;
@@ -398,7 +398,7 @@ caption {
 
 .custom-button {
     display:inline-block;
-    background-color:#263F35;
+    background-color:#7C876D;
     color:#F7F3EA;
     padding:12px 30px;
     margin-top:25px;
@@ -417,7 +417,7 @@ caption {
 }
 
 .shop-intro {
-    background-color:#E8E0D0;
+    background-color:#F0C1AD;
     text-align:center;
     padding:60px 40px;
     border-top:1px solid #AD9469;
