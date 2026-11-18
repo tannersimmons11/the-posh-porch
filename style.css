@@ -417,7 +417,7 @@ caption {
 }
 
 .shop-intro {
-    background-color:#F0C1AD;
+    background-color:#777E5F;
     text-align:center;
     padding:60px 40px;
     border-top:1px solid #AD9469;
@@ -643,8 +643,8 @@ caption {
 }
 
 .shop-sidebar a:hover {
-    background-color:#F0C1AD;
-    color:#493F38;
+    background-color:#777E5F;
+    color:#FFFAF5;
 }
 
 .shop-feature {
