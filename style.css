@@ -599,17 +599,23 @@ caption {
 }
 
 .shop-layout {
-    display:flex;
-    gap:30px;
-    align-items:flex-start;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 30px;
+    width: 100%;
+    margin: 30px auto;
 }
 
 .shop-sidebar {
-    width:250px;
-    padding:20px;
-    background-color:#FFFAF5;
-    border:1px solid #B79B70;
-    border-radius:8px;
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 250px;
+    padding: 20px;
+    background-color: #FFFAF5;
+    border: 1px solid #B79B70;
+    border-radius: 8px;
+    box-sizing: border-box;
 }
 
 .shop-sidebar a {
