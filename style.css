@@ -175,7 +175,7 @@ main {
 }
 
 .hero-content {
-	background-color:rgba(247,243,234,0.92);
+	background-color:#FFFAF5;
 	max-width:650px;
 	margin:0 auto;
 	padding:35px;
@@ -185,7 +185,7 @@ main {
 .hero h2 {
     font-family:"Playfair Display", serif;
     font-size:44px;
-    color:#263F35;
+    color:#493F38;
     margin-top:0;
 }
 
