@@ -11,13 +11,13 @@ Gray: #ADAEBD
 }
 
 body {
-    background-color:#F5F0E6;
+    background-color:#FFFAF5;
     margin:0;
     padding:0;
 }
 
 .wrapper {
-    background-color:#F7F3EA;
+    background-color:#FFFAF5;
     width:100%;
     margin:0 auto;
     max-width:1200px;
@@ -127,7 +127,7 @@ header a:hover, header a:active {
 }
 
 nav {
-    background-color:#F5F0E6;
+    background-color:#FFFAF5;
     width:100%;
     float:none;
     padding:18px 8px;
@@ -159,7 +159,7 @@ main {
     width:100%;
     padding:40px 5%;
     float:none;
-    background-color:#F7F3EA;
+    background-color:#FFFAF5;
     font-family:"DM Sans", sans-serif;
     line-height:1.8;
 }
