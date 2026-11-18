@@ -191,14 +191,14 @@ main {
 
 .hero p {
     font-size:17px;
-    color:#263F35;
+    color:#493F38;
     max-width:650px;
     margin:0 auto;
 }
 
 .hero-button {
     display:inline-block;
-    background-color:#263F35;
+    background-color:#7C876D;
     color:#F7F3EA;
     padding:12px 30px;
     margin-top:25px;
