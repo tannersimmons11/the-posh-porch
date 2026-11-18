@@ -637,6 +637,17 @@ caption {
     color:#493F38;
     margin-bottom:15px;
 }
+
+@media screen and (max-width: 768px) {
+    .shop-layout {
+        flex-direction: column;
+    }
+	  .shop-sidebar,
+    .shop-feature {
+        width: 100%;
+        box-sizing: border-box;
+    }
+}	
 	
 }
 @media print {
