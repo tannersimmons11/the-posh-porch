@@ -180,6 +180,7 @@ main {
 	margin:0 auto;
 	padding:35px;
 	border:1px solid #B79B70;
+	border-radius: 18px;
 }
 
 .hero h2 {
