@@ -740,3 +740,11 @@ caption {
         grid-template-columns: 1fr;
     }
 }
+
+.gold-flourish {
+    color: #B79B70;
+    font-size: 32px;
+    text-align: center;
+    margin: 8px auto 18px;
+    line-height: 1;
+}
