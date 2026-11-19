@@ -748,3 +748,11 @@ caption {
     margin: 8px auto 18px;
     line-height: 1;
 }
+
+.site-logo {
+    display: block;
+    width: 100%;
+    max-width: 320px;
+    height: auto;
+    margin: 0 auto;
+}
